@@ -423,7 +423,7 @@ st.markdown(
     <style>
     video, img {
         max-height: 70vh;
-        object-fit: contain;
+        object-fit: cover;
         border-radius: 16px;
     }
     </style>
