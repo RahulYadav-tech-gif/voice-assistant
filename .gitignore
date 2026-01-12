@@ -2,7 +2,7 @@
 .env    
 venv/
 venvv/
-app4.py/
-app3.py/
-audio_recorder.py/
+app4.py
+app3.py
+audio_recorder.py
 __pycache__/
